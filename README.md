@@ -1,4 +1,4 @@
-# Fundamentos de Programación en Matlab/Simulink - OTI - UNI 
+# Fundamentos de Programación en Matlab - OTI - UNI 
 
 ![Matlab](logo.png)
 
